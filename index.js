@@ -1,6 +1,6 @@
 const process = document.querySelectorAll('.process .processbar');
 const totalBars = process.length;
-const animationDuration = 2000; // Duração total da animação de uma barra
+const animationDuration = 2000; // Duração total da animação de uma barra 2s
 const nextBarDelay = 1500;
 let currentBar = 0;
 
